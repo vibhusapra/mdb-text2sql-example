@@ -10,7 +10,7 @@ Clone this repository to your local machine using:
 
 Create a virtual environment, execute the following command: 
 
-``` python -m venv .venv ``` 
+``` python -m venv venv ``` 
 
 Activate the virtual environment by running: 
 
