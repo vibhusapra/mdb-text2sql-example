@@ -8,9 +8,7 @@ Clone this repository to your local machine using:
 
 ``` cd mdb-text2sql-example/ ```
 
-Create a virtual environment, execute the following command: 
-
-``` python -m venv venv ``` 
+Create a virtual environment, execute the following command: venv ``` 
 
 Activate the virtual environment by running: 
 
