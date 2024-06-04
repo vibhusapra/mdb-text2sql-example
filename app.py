@@ -72,6 +72,7 @@ def send():
                 "total_tokens": response.usage.total_tokens
             }
         })
+        
     except Exception as e:
         # Handle different types of errors and append error messages to the chat list
         print(e)
